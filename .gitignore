@@ -121,6 +121,11 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# prompt
+*.prompt
+
+localtest.sh
+
 # Environments
 .env
 .venv
